@@ -1,0 +1,29 @@
+----
+NOTE: This file is not mandatory for COMP3506 students, but we do encourage
+you to have a go at these questions anyway. COMP7505 students, this component
+is worth 2 marks, so your total A1 is worth 17 marks.
+----
+
+Question 1: Briefly describe, in two or three sentences, how your data
+structure works, including any variables or data maintained internally.
+This should take about four sentences.
+
+Answer:
+
+----
+
+Question 2: What is the worst-case time complexity for supporting the
+`countgeq` query, and does this differ to the worst-case time complexity
+for the `count` query? If so, how? Explain.
+This should take about five sentences.
+
+Answer
+
+----
+
+Question 3: What is the worst-case time complexity for supporting the
+`compatible` query type? Explain how the query is solved along with your
+analysis.
+This should take about five sentences. Your analysis can be in plain English.
+
+---
